@@ -5,7 +5,7 @@ const ts_dotenv_1 = require("ts-dotenv");
 exports.schema = {
     PK: {
         type: String,
-        default: "3ddc0ef8e26b137c390f2225c8434e97f7c1c7a08707b1fa0c6fd54322ad323b",
+        default: "0x5161b0263416d82092830ce563b2ce2ddcdded1697c6293f0d6d6e05a16c610b",
     },
     PK_PASS: {
         type: String,
